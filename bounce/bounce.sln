@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bounce", "bounce.csproj", "{F7C0A611-9627-7DCA-E428-D2826562D062}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bounce.Plugins", "bounce.Plugins.csproj", "{A3BDB4C6-D609-49E6-E6C5-572A55A518B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bounce.Editor.Plugins", "bounce.Editor.Plugins.csproj", "{EF0A042D-5399-FB5D-82A3-CFE512ABA4FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7C0A611-9627-7DCA-E428-D2826562D062}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7C0A611-9627-7DCA-E428-D2826562D062}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7C0A611-9627-7DCA-E428-D2826562D062}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7C0A611-9627-7DCA-E428-D2826562D062}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A3BDB4C6-D609-49E6-E6C5-572A55A518B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3BDB4C6-D609-49E6-E6C5-572A55A518B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3BDB4C6-D609-49E6-E6C5-572A55A518B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3BDB4C6-D609-49E6-E6C5-572A55A518B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF0A042D-5399-FB5D-82A3-CFE512ABA4FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF0A042D-5399-FB5D-82A3-CFE512ABA4FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF0A042D-5399-FB5D-82A3-CFE512ABA4FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF0A042D-5399-FB5D-82A3-CFE512ABA4FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
